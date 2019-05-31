@@ -3,6 +3,7 @@ entero numero2
 entero resultado
 
 INICIO
+        escriba ("hola, digite su numero a continuacion")
 	escriba ("Digite numero 1 ")
 	lea numero1
 	escriba ("Digite numero 2 ")
