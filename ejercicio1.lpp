@@ -1,0 +1,13 @@
+entero numero1
+entero numero2
+entero resultado
+
+INICIO
+	escriba ("Digite numero 1 ")
+	lea numero1
+	escriba ("Digite numero 2 ")
+	lea numero2
+	
+	resultado<-numero1+numero2
+	escriba("La suma es: "),resultado
+FIN
